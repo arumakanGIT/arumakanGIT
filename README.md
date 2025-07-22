@@ -18,8 +18,6 @@ I want to explore deeper areas of computer science, especially systems, backend 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arumakanGIT&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arumakanGIT&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumakanGIT&layout=compact&theme=tokyonight" height="150" />
 </div>
 
