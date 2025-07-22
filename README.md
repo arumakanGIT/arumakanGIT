@@ -1,27 +1,31 @@
-# 👋 Hi there! I'm a Computer Engineering Student at Sharif University of Technology
+## 👋 Hi there! I'm a CE Student at SUT
 
-## 🧑‍💻 About Me
-
+---
 I'm currently studying Computer Engineering at **Sharif University of Technology**.  
 Before university, I worked with **C#** for several years and developed a few personal projects just for fun and learning.
 
 At university, I’ve learned **C** and **Java**, and I’m continuously trying to improve my programming skills and expand my knowledge.  
 I enjoy building useful tools and software, and I'm passionate about writing clean and efficient code.
-
-## 🚀 Goals
-
+---
 I'm aiming to become more active and productive in open-source and personal projects.  
 I want to explore deeper areas of computer science, especially systems, backend development, and software architecture.
+---
 
-## 🛠️ Skills
+###
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<h2 align="center">Ny Skills</h2>
 
-## 📈 GitHub Stats
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  /> />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
