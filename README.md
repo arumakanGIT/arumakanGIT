@@ -17,6 +17,13 @@ I'm aiming to become more active and productive in open-source and personal proj
 I want to explore deeper areas of computer science, especially systems, backend development, and software architecture.
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arumakanGIT&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arumakanGIT&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumakanGIT&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+
 ###
 
 <h2 align="center">My Skills</h2>
