@@ -3,9 +3,8 @@
 ## 👋 Hey there! I'm a CE Student at SUT  
 > Always learning. Always building. 🚀  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arumakanGIT&theme=tokyonight&hide_border=false" height="150" />
-</p>
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=arumakanGIT&theme=tokyonight&hide_border=false)
+
 
 <div align="center">
 
